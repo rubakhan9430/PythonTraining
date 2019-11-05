@@ -1,0 +1,12 @@
+name = input('What is your name: ')
+address = input('What is your address: ')
+city = input("City: ")
+state = input('State: ')
+zip = input('ZIP: ')
+
+telephone = input('What is your telephone number?:')
+major = input('What is your college major?:')
+print('Name:',name)
+print('Address:',address,',',city,state,zip)
+print('Telephone:',telephone)
+print('College major:',major)
