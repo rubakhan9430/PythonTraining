@@ -10,3 +10,4 @@ c = float(input('Class C tickets:'))
 e = seats(a,b,c)
 print(e)
 
+
