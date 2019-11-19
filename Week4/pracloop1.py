@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # a=[1,3,4,5,6,"banana","orange"]
 # print (len(a))
 # print (a[2:6])
@@ -13,3 +14,8 @@ while (test > 0):
     print(test, 'is greater than 0')
     test -=1
 
+=======
+a=[1,2,3,4,5]
+for x in range(10,20,2):
+    print(x)
+>>>>>>> develop
